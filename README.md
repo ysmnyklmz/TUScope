@@ -67,7 +67,7 @@ bir arada sunan, AI destekli bir öğrenme asistanı.
 📎 Whatsapp üzerinden iletişim kurduk.
 
 ## Sprint Board (Trello / Miro):
-📎 [![Sprint Board](images/trello_board.png)]
+📎 [https://github.com/ysmnyklmz/TUScope/blob/main/trello_board.png]
 
 ##  Ürün Ekran Görüntüsü (Taslak):
 📎 [spot_ekran.png]
