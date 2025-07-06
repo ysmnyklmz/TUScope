@@ -64,7 +64,7 @@ bir arada sunan, AI destekli bir öğrenme asistanı.
 ---
 
 ## Daily Scrum Görseli:
-📎 [daily_scrum1.png] (GitHub’a yükleyip linkini buraya ekleyebilirsin)
+📎 Whatsapp üzerinden iletişim kurduk.
 
 ## Sprint Board (Trello / Miro):
 📎 [trello_linki_yada_ekran_resmi.png]
