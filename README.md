@@ -114,5 +114,10 @@ Aşağıda uygulamanın ekran görüntüleri yer almaktadır:
    ```bash
    streamlit run TUScopeMini.py
 
+<p align="center">
+  <img src="https://github.com/ysmnyklmz/TUScope/blob/main/TUScope%20img/terminal.png" alt="TUScope Logo" width="250"/>
+</p>
+
+<h1 align="center">Terminal Görüntüsü</h1>
 
 
