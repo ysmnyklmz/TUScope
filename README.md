@@ -10,22 +10,25 @@
 
 
 
-Merhaba! Ben **Yasemin** 👋  
-  
-Amacım, TUS’a hazırlanan öğrenciler için 7 ana ders kategorisinde spot bilgiler ve mini testler sunan interaktif bir uygulamayı tamamlamaktı.  
+
+# TUScope 📚💡
+
+TUScope, TUS sınavına hazırlanan tıp öğrencileri için geliştirilmiş yapay zeka destekli bir öğrenme asistanıdır.  
+Proje, **Yasemin Yıkılmaz** tarafından Google Yapay Zeka ve Teknoloji Akademisi Mezuniyet Bootcamp’i kapsamında **tek başına** geliştirilmiştir.
 
 ---
 
-## 📌  Hedeflerim
-- 7 bölümlük quiz sistemini tamamlamak  
-- Spot bilgileri eklemek  
-- Doğru/yanlış geri bildirimleri ve doğru sayısı göstermek  
-- Streamlit arayüzünü son hâline getirmek  
-- Uygulamayı test edip ekran görüntüleri almak  
+## 🚀 Özellikler
+- **7 Bölümden** oluşan kapsamlı soru sistemi (Anatomi, Biyokimya, Fizyoloji, Farmakoloji, Mikrobiyoloji, Patoloji, Histoloji)
+- JSON tabanlı soru verileri
+- **Anında doğru/yanlış geri bildirimi** ve puan hesaplama
+- GPT destekli **spot bilgiler** ile sınav öncesi hızlı tekrar
+- Python ve Streamlit ile geliştirilen kullanıcı dostu arayüz
 
 ---
 
-## 🛠️ Yaptıklarım ve Puanlamam
+
+## 🛠️ Yaptıklarım 
 
 ### 1️⃣ 7 Bölümlük Quiz Sistemi Kurulumu 
 - **Yaptığım İş:**  
@@ -63,12 +66,35 @@ Amacım, TUS’a hazırlanan öğrenciler için 7 ana ders kategorisinde spot bi
 
 ---
 
-### 5️⃣ Test ve Ekran Görüntüleri 
-- **Yaptığım İş:**  
-  - Tüm uygulamayı test ettim ve soruların doğru/yanlış çalıştığını kontrol ettim.  
-  - **3 farklı ekran görüntüsü** aldım ve README’ye ekledim.  
 
+
+## 🖥️ Kullanıcı Arayüzü
+Aşağıda uygulamanın ekran görüntüleri yer almaktadır:
+
+### Ana Sayfa
+![Ana Sayfa]([https://github.com/ysmnyklmz/TUScope/blob/main/TUScope%20img/giri%C5%9F.png])
+
+### Soru Ekranı
+![Soru Ekranı]([https://github.com/ysmnyklmz/TUScope/blob/main/TUScope%20img/sorular.png])
+
+### Bölüm Seçim Ekranı
+![Bölüm Seçim Ekranı]([https://github.com/ysmnyklmz/TUScope/blob/main/TUScope%20img/7b%C3%B6l%C3%BCm.png])
 
 ---
+
+## 🛠️ Teknolojiler
+- **Python**  
+- **Streamlit** (Frontend)
+- **JSON** (Veri Depolama)
+- **Pandas, NumPy** (Veri İşleme)
+- **GPT** ile üretilmiş spot bilgiler
+
+---
+
+## 📦 Kurulum
+1. Bu projeyi klonla:
+   ```bash
+   git clone https://github.com/kullanici_adi/TUScope.git
+   cd TUScope
 
 
