@@ -72,16 +72,19 @@ Proje, **Yasemin Yıkılmaz** tarafından Google Yapay Zeka ve Teknoloji Akademi
 Aşağıda uygulamanın ekran görüntüleri yer almaktadır:
 
 ### Ana Sayfa
-![Ana Sayfa]
-[https://github.com/ysmnyklmz/TUScope/blob/main/TUScope%20img/giri%C5%9F.png]
+[Ana Sayfa]
+
+📎 [https://github.com/ysmnyklmz/TUScope/blob/main/TUScope%20img/giri%C5%9F.png]
 
 ### Soru Ekranı
-![Soru Ekranı]
-[https://github.com/ysmnyklmz/TUScope/blob/main/TUScope%20img/sorular.png]
+[Soru Ekranı]
+
+📎 [https://github.com/ysmnyklmz/TUScope/blob/main/TUScope%20img/sorular.png]
 
 ### Bölüm Seçim Ekranı
-![Bölüm Seçim Ekranı]
-[https://github.com/ysmnyklmz/TUScope/blob/main/TUScope%20img/7b%C3%B6l%C3%BCm.png]
+[Bölüm Seçim Ekranı]
+
+📎 [https://github.com/ysmnyklmz/TUScope/blob/main/TUScope%20img/7b%C3%B6l%C3%BCm.png]
 
 ---
 
