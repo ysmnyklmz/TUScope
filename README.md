@@ -7,7 +7,7 @@
 
 <h1 align="center">🧠 TUScope</h1>
 <p align="center">TUS Çıkmış Soru ve Spot Bilgi Asistanı</p>
-# 🏆 Sprint 3 - TUScope Mini (Final Sprint)
+
 
 
 Merhaba! Ben **Yasemin** 👋  
