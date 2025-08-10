@@ -123,11 +123,8 @@ Aşağıda uygulamanın ekran görüntüleri yer almaktadır:
 ## 👩🏻‍💻 Geliştirici
 
 <table>
-  <tr>
-    <td>
-      <img src="gorseller/yasemin.png" width="150" alt="Yasemin Yıkılmaz - Siyah saçlı yazılımcı">
-    </td>
-    <td>
+ <tr>
+  <td>
       <strong>Yasemin Yıkılmaz</strong><br>
       📧 <a href="mailto:ysmnyklmz55@gmail.com">ysmnyklmz55@gmail.com</a><br>
       🌍 <a href="https://www.linkedin.com/">LinkedIn Profilim</a>
