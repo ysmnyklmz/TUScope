@@ -105,8 +105,9 @@ Aşağıda uygulamanın ekran görüntüleri yer almaktadır:
 
 
 2. Gerekli paketleri yükle:
-   ```bash
-  pip install -r requirements.txt
+      ```bash
+     pip install -r requirements.txt
+
 
 
 1. Uygulamayı başlat:
